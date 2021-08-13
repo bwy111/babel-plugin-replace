@@ -1,0 +1,24 @@
+{
+  "name": "babel-plugin-replace",
+  "version": "0.0.1",
+  "description": "babel插件-替换全局变量",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babel",
+    "babel-plugin",
+    "plugin",
+    "replace",
+    "miniProgram"
+  ],
+  "author": "baiweiye",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-node-resolve": "^5.2.0"
+  }
+}
