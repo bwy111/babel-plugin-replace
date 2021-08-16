@@ -1,12 +1,14 @@
 {
   "name": "babel-plugin-replace",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "babel plugin for global variable repalce",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
+    "node",
+    "JavaScript",
     "babel",
     "babel-plugin",
     "plugin",
@@ -14,6 +16,10 @@
     "miniProgram"
   ],
   "author": "baiweiye",
+  "bugs": {
+    "url": "https://github.com/bwy111/babel-plugin-replace/issues"
+  },
+  "homepage": "https://github.com/bwy111/babel-plugin-replace",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.15.0",
