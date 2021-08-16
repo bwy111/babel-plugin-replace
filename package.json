@@ -1,7 +1,7 @@
 {
   "name": "babel-plugin-replace",
   "version": "0.0.1",
-  "description": "babel插件-替换全局变量",
+  "description": "babel plugin for global variable repalce",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
